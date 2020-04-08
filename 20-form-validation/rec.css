@@ -1,0 +1,22 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: antiquewhite;
+}
+.main{
+    width: 370px;
+    margin: 50px auto;
+}
+#add{
+    width: 70px;
+    margin-left: 62px;
+}
+input,label{
+    margin: 5px 0;
+    padding-left: 5px;
+}
+span{
+    color:red;
+}
